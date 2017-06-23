@@ -9,15 +9,15 @@ https://cczeng.github.io/2017/05/03/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E5%88%A
   包括git、node.js、npm设置淘宝镜像
   
 2. 初始化博客  
-  ```
-  #!bash
-  $ cnpm install hexo-cli -g  
-  $ hexo init blog  
-  $ cd blog  
-  $ cnpm install  
-  $ hexo g # 或者hexo generate  
-  $ hexo s # 或者hexo server，可以在http://localhost:4000/ 查看  
-  ```
+    ```
+    #!bash
+    $ cnpm install hexo-cli -g  
+    $ hexo init blog  
+    $ cd blog  
+    $ cnpm install  
+    $ hexo g # 或者hexo generate  
+    $ hexo s # 或者hexo server，可以在http://localhost:4000/ 查看  
+    ```
   
 3. git设置publicKey  
   git bash中生成publicKey   
